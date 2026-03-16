@@ -1,0 +1,21 @@
+# Personal profile — contains your private info
+candidate_profile.py
+
+# Scraped data
+*.json
+*.csv
+
+# Progress tracking
+progress.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
